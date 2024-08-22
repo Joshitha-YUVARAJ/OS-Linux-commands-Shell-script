@@ -768,7 +768,7 @@ else
 echo "$val1 is less than $val2"
 fi
 ```
-##OUTPUT
+## OUTPUT
 
 ```
 baseball is less than hockey
@@ -1371,8 +1371,8 @@ $ chmod 755 exread.sh
 $ ./exread.sh 
 ## OUTPUT
 ```
-Enter your name: Anuradha
-Hello Anuradha, welcome to my program. 
+Enter your name: Joshitha
+Hello Joshitha , welcome to my program. 
 
 ```
 
@@ -1387,8 +1387,8 @@ $ chmod 755 exread1.sh
 
 ## OUTPUT
 ```
-Enter your name: Anuradha
-Hello Anuradha, welcome to my program. 
+Enter your name: Joshitha
+Hello Joshitha, welcome to my program. 
 ```
 
 
